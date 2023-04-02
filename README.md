@@ -20,5 +20,5 @@ Personal responsibilities:
 ### 🛠 TECH SKILLS
 *   Java script,Python
 *   Web-testing, Mobile-testing, API testing, SQL testing
-*   Agile software development, Scrum, Kanba
+*   Agile software development, Scrum, Kanban
 *   GitHub/Git
